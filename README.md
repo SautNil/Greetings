@@ -17,6 +17,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh6MDA0bmJub2c0MTI4cXF3ODhiYmxjaGY0NWw1dWE5ZXR4cnlpYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200"/>
+</div>
 
 ### :man_technologist: About Me :
 My name is Danila Sautkin and I am a beginner developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
