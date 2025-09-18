@@ -16,7 +16,7 @@
 
 
 ### :man_technologist: About Me :
-I am a beginner developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+My name is Danila Sautkin and I am a beginner developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: Graduated from the BMSTU, Aerospace Faculty.
 
