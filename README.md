@@ -24,7 +24,7 @@ My name is Danila Sautkin and I am a beginner developer <img src="https://media.
 - :telescope: Graduated from the BMSTU, Aerospace Faculty.
 
 
-- :seedling: I'm learning Java on my own..
+- :seedling: I'm learning Java on my own.
 
 - :zap: In my free time, i try to participate in Open Source projects.
 
