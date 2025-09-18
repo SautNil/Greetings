@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=SautNil&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 
 <div id="header" align="center">
@@ -38,4 +36,9 @@ My name is Danila Sautkin and I am a beginner developer <img src="https://media.
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+<div id="header" align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=SautNil&style=flat-square&color=blue" alt=""/>
 </div>
